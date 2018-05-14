@@ -1,0 +1,6 @@
+SSID: ParsaTech
+Password: nrg10241024
+
+Ap IP: 192.168.20.254
+AP User: admin
+AP Password: nrg10251025
